@@ -3,3 +3,4 @@
 <ul><li>Keylogger - simulador de keylogger, provido de tecla de saída para interromper o funcionamento (Tecla ESC, para plena portabilidade)</li>
 <li>Ransomware - simulador de ransomware, que varre a lista de arquivos contidos em um dado diretório e os criptografa</li>
 </ul>
+<p>Meus agradecimentos à Professora Isadora Ferrão pelas aulas de altíssima qualidade.</p>
